@@ -1,0 +1,33 @@
+Begin Object Class=MaterialInstanceConstant Name="ImposterTreeMat_Inst"
+   Begin Object Class=SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_2"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_2"
+   End Object
+   ParameterStateId=C82594AD4C15EE64368DC28A9D3274EA
+   Parent=Material'/Game/OtherFoliageAndTerrain/Materials/PineTree/ImposterTreeMat.ImposterTreeMat'
+   ScalarParameterValues(0)=(ParameterName="Emissive Multiplier",ParameterValue=0.836898,ExpressionGUID=9E363A6A4793E22C0785A6B665137912)
+   ScalarParameterValues(1)=(ParameterName="Normal Map Flatness",ParameterValue=1.000000,ExpressionGUID=288F14F840201E3339359696E3372FE0)
+   ScalarParameterValues(2)=(ParameterName="NORMAL ROTATE AMT",ParameterValue=-49.352367,ExpressionGUID=71F41AF042FF9A30B3640380F0B4B5FC)
+   ScalarParameterValues(3)=(ParameterName="Roughness",ParameterValue=1.115820,ExpressionGUID=A292DEF64E134A027393C0AF44424291)
+   ScalarParameterValues(4)=(ParameterName="Spec",ExpressionGUID=F1038E7A434CC58CE4FA5D9F572200F9)
+   ScalarParameterValues(5)=(ParameterName="Sprite Position Z Axis",ParameterValue=-155.111938,ExpressionGUID=4376F026481E841C5C77FA9B4F0A589B)
+   ScalarParameterValues(6)=(ParameterName="Sprite Scale",ParameterValue=1357.885864,ExpressionGUID=9D96AC6F448C7F30C8B02681DC45A14F)
+   ScalarParameterValues(7)=(ParameterName="SS Multiplier",ParameterValue=4.599636,ExpressionGUID=EBF8049E44F834EB9B72C78D0A2111B6)
+   ScalarParameterValues(8)=(ParameterName="SS Opacity",ParameterValue=0.921079,ExpressionGUID=FBD3866D4B0EAEA370E7FCBBD46705A3)
+   ScalarParameterValues(9)=(ParameterName="SSS Mask Contrast",ParameterValue=0.965992,ExpressionGUID=AFBCD9BE4379ED59EC1012BFF411C0DA)
+   ScalarParameterValues(10)=(ParameterName="SSS Mask Multiply",ParameterValue=0.536575,ExpressionGUID=F94823B0497FDA299E39F8AE346D7316)
+   ScalarParameterValues(11)=(ParameterName="SSS Mask Power",ParameterValue=1.000000,ExpressionGUID=65D9068F43BE32CB9CBAE6932FC73CD0)
+   ScalarParameterValues(12)=(ParameterName="RefractionDepthBias")
+   VectorParameterValues(0)=(ParameterName="Emissive Color",ParameterValue=(R=0.030638,G=0.045000,B=0.021445,A=1.000000),ExpressionGUID=1DC1EBC2474E0EE3C32BE3AA4182B2D0)
+   VectorParameterValues(1)=(ParameterName="Normals Color",ParameterValue=(R=0.354638,G=1.000000,B=0.000000,A=1.000000),ExpressionGUID=276867CF437F3219BA3530A363A7C1DF)
+   VectorParameterValues(2)=(ParameterName="Overall Base Color",ParameterValue=(R=0.467647,G=0.952183,B=1.000000,A=1.000000),ExpressionGUID=83CB552549E51E1C3E4366A632BBB33B)
+   VectorParameterValues(3)=(ParameterName="SSS Overall Color",ParameterValue=(R=0.163715,G=0.180000,B=0.016428,A=1.000000),ExpressionGUID=C03E22914FBDEF9504B875B520EC0F95)
+   ReferencedTextureGuids(0)=E9F0594F40FF9A4E19AB7DBAB51CB0F2
+   ReferencedTextureGuids(1)=FE13468B4F40EAD407B82F9F1BAF9161
+   ReferencedTextureGuids(2)=B7E374CC4B6C98727F9CF9AD8479D310
+   ReferencedTextureGuids(3)=02A7FA8F436C36F141E9809BDF1D2327
+   ReferencedTextureGuids(4)=BF89047640EC1A90C034C2896EAFE07F
+   ReferencedTextureGuids(5)=9A48ECE8467D32DFA14E25B8C2D99B9C
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_2'
+   LightingGuid=58F3DC6D444CC745CE7EA1BC417A6961
+End Object

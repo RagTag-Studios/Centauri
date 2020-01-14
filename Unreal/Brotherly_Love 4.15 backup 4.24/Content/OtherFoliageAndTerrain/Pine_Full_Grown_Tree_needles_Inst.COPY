@@ -1,0 +1,34 @@
+Begin Object Class=MaterialInstanceConstant Name="Pine_Full_Grown_Tree_needles_Inst"
+   Begin Object Class=SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_7"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_7"
+   End Object
+   Parent=Material'/Game/OtherFoliageAndTerrain/SuperFoliageSpeedWorkflow/Materials/Pine_Needles_Mat.Pine_Needles_Mat'
+   bHasStaticPermutationResource=True
+   ScalarParameterValues(0)=(ParameterName="Custom Color Amount",ParameterValue=1.561667,ExpressionGUID=A641E4AA4F139BDF965B03A5F60A6F93)
+   ScalarParameterValues(1)=(ParameterName="Gradient Amount From Tip to Base",ParameterValue=0.284016,ExpressionGUID=6D25E57847997FFE4CC3EB8973EADD6E)
+   ScalarParameterValues(2)=(ParameterName="Overall SS Multiplier",ParameterValue=10.477126,ExpressionGUID=DBA30A3F440AA76F9D5EAD8D21F63984)
+   ScalarParameterValues(3)=(ParameterName="Far Thickness Level",ParameterValue=0.752052,ExpressionGUID=B5A790EE438C22AA67DA418E7D96EBED)
+   ScalarParameterValues(4)=(ParameterName="How Far the Thickness Starts",ParameterValue=2362.920654,ExpressionGUID=B3A448764DF7B39D6EC755B004EB501C)
+   ScalarParameterValues(5)=(ParameterName="Near Thickness Level",ParameterValue=0.504780,ExpressionGUID=8CDB29474BC172C620855DAF7EBC0039)
+   ScalarParameterValues(6)=(ParameterName="Transition Smoothness",ParameterValue=8.475356,ExpressionGUID=06A49F944E11CD9A7478A5AA3DA4420F)
+   ScalarParameterValues(7)=(ParameterName="Object Sway Amount",ExpressionGUID=636B22824CE120AB1B02AEAE98E141B3)
+   ScalarParameterValues(8)=(ParameterName="Object Sway Wind Speed Multiplier",ParameterValue=0.370000,ExpressionGUID=E6F1363A48BA6AD190FF4A8929402B50)
+   ScalarParameterValues(9)=(ParameterName="Object Sway World Sine Divider",ParameterValue=23.500000,ExpressionGUID=4842D53C40EFB0A19B9CD68775E3CF46)
+   ScalarParameterValues(10)=(ParameterName="Wind Speed Multiplier",ParameterValue=0.500000,ExpressionGUID=1F80AE6A4776D172DE15F19309227962)
+   ScalarParameterValues(11)=(ParameterName="Main Wind Size",ParameterValue=3254.538330,ExpressionGUID=8DE2070A47181D74BBB2C297340189A0)
+   ScalarParameterValues(12)=(ParameterName="Wind Strength",ParameterValue=28.426855,ExpressionGUID=B9AF73E74DB1F6C17743DEB27EB439FF)
+   ScalarParameterValues(13)=(ParameterName="Opacity of SS Green Channel",ParameterValue=-0.255918,ExpressionGUID=FD35008F4D4CC4C703281CB6C58A7B76)
+   ScalarParameterValues(14)=(ParameterName="Overall SS Opacity",ParameterValue=0.079464,ExpressionGUID=ECAE528B454B252068808FB840B3CD94)
+   ScalarParameterValues(15)=(ParameterName="RefractionDepthBias")
+   VectorParameterValues(0)=(ParameterName="Bottom of Gradient SS Color",ParameterValue=(R=0.009265,G=0.030000,B=0.009746,A=1.000000),ExpressionGUID=B41E69FD4E37079D3EEC0AB49916F4C9)
+   VectorParameterValues(1)=(ParameterName="Top of Gradient SS Color",ParameterValue=(R=0.033000,G=0.055000,B=0.009000,A=1.000000),ExpressionGUID=4276F9B74E0A1E9A26E99E9C37472138)
+   VectorParameterValues(2)=(ParameterName="Object Sway_R_Sine1Rate_G_Sine1Amount_B_Sine2Rate_A_Sine2Amount",ParameterValue=(R=0.100000,G=0.000000,B=0.256000,A=0.100000),ExpressionGUID=441CC9754669DE1DDE4748887CF1DD54)
+   BasePropertyOverrides=(bOverride_DitheredLODTransition=True,DitheredLODTransition=True)
+   ReferencedTextureGuids(0)=B4D69DA7479C1BE5FD9D9E96902B8EB7
+   ReferencedTextureGuids(1)=A4F694FC41AAB06BDF71C7B9BEAC2A86
+   ReferencedTextureGuids(2)=56DDFCA24925C7E3EDF7D9ABAC8BA983
+   ReferencedTextureGuids(3)=7ACDD335472F2FB7F5C6C1AABF7428E7
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_7'
+   LightingGuid=EB84FB1D4894088805C51B8F7DB6DFB9
+End Object

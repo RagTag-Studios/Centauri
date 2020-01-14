@@ -1,0 +1,25 @@
+Begin Object Class=MaterialInstanceConstant Name="Pine_Top_LOD3_INST"
+   Begin Object Class=SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_2"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_2"
+   End Object
+   Parent=Material'/Game/OtherFoliageAndTerrain/SuperFoliageSpeedWorkflow/Materials/High-Distance-LOD-Master-Mat.High-Distance-LOD-Master-Mat'
+   ScalarParameterValues(0)=(ParameterName="Base Reflection Fraction In",ParameterValue=0.524330,ExpressionGUID=228BDA36430ADBA20DBCBDA3FA334B61)
+   ScalarParameterValues(1)=(ParameterName="Exponent In",ParameterValue=5.355346,ExpressionGUID=3216755B47A5B3AD26BC18AC31EFB85E)
+   ScalarParameterValues(2)=(ParameterName="Normal Map Blue Power",ParameterValue=97.198677,ExpressionGUID=C53FB03F4D746E9BD9E7F3BC08F00FDE)
+   ScalarParameterValues(3)=(ParameterName="Normal Map Green Power",ParameterValue=1.000000,ExpressionGUID=09CE8EB34449DEC22918A9AAB823F8D4)
+   ScalarParameterValues(4)=(ParameterName="Normal Map Red Power",ParameterValue=1.000000,ExpressionGUID=B7D0B9F548BACBC4116435AC2634F1A4)
+   ScalarParameterValues(5)=(ParameterName="Overall SS Multiplier",ParameterValue=0.793657,ExpressionGUID=DBA30A3F440AA76F9D5EAD8D21F63984)
+   ScalarParameterValues(6)=(ParameterName="RefractionDepthBias")
+   TextureParameterValues(0)=(ParameterName="Texture to Use for Diffuse",ParameterValue=Texture2D'/Game/OtherFoliageAndTerrain/SuperFoliageSpeedWorkflow/Textures/shot_1.shot_1',ExpressionGUID=78DEF7F34859B0CADA3AE7B116315107)
+   TextureParameterValues(1)=(ParameterName="Texture to Use for Normal Map",ParameterValue=Texture2D'/Game/OtherFoliageAndTerrain/SuperFoliageSpeedWorkflow/Textures/shot_1_Normal.shot_1_Normal',ExpressionGUID=8771E5FD4AEB73B258E03E87CD6E0A9A)
+   VectorParameterValues(0)=(ParameterName="SS Color 1",ParameterValue=(R=0.305000,G=0.275153,B=0.003620,A=1.000000),ExpressionGUID=5718512747A27C8A78C0889B3096EC1A)
+   VectorParameterValues(1)=(ParameterName="SS Color 2",ParameterValue=(R=0.620667,G=0.640000,B=0.015811,A=1.000000),ExpressionGUID=413163F94846AE5784F89B9FBAB7D9D0)
+   VectorParameterValues(2)=(ParameterName="SS Color 3",ParameterValue=(R=0.100000,G=0.095635,B=0.011796,A=1.000000),ExpressionGUID=F315643F457C058B6658CFBF59CA1ED7)
+   VectorParameterValues(3)=(ParameterName="Overall Tree Color Multiplier",ParameterValue=(R=0.780726,G=1.000000,B=0.097503,A=1.000000),ExpressionGUID=DBB9784B40563A2DA4C5C4A5B03F64B9)
+   ReferencedTextureGuids(0)=99228296401A526754087783E2E6AD25
+   ReferencedTextureGuids(1)=0C068365468906DC61E61398C2297CBA
+   ReferencedTextureGuids(2)=F49C25CA42E76CB6C5B839BE7524D322
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_2'
+   LightingGuid=3A09230244BA7FC1DB699AA34EC31862
+End Object

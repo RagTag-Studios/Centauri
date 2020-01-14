@@ -1,0 +1,37 @@
+Begin Object Class=Material Name="Cap"
+   Begin Object Class=MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_2"
+   End Object
+   Begin Object Class=MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_3"
+   End Object
+   Begin Object Class=SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_1"
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_2"
+      Texture=Texture2D'/Game/OtherFoliageAndTerrain/SuperFoliageSpeedWorkflow/Textures/Cap_01.Cap_01'
+      MaterialExpressionEditorX=240
+      MaterialExpressionEditorY=-320
+      MaterialExpressionGuid=43834D72412106D3B201F9B38BB476EA
+      Material=Material'Cap'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_3"
+      Texture=Texture2D'/Game/OtherFoliageAndTerrain/SuperFoliageSpeedWorkflow/Textures/Cap_01_Normal.Cap_01_Normal'
+      SamplerType=SAMPLERTYPE_Normal
+      MaterialExpressionEditorX=240
+      MaterialExpressionEditorY=256
+      MaterialExpressionGuid=15BE0D0A4EE11DA8099E59936E33BEF6
+      Material=Material'Cap'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_1"
+   End Object
+   BaseColor=(Expression=MaterialExpressionTextureSample'MaterialExpressionTextureSample_2',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   Normal=(Expression=MaterialExpressionTextureSample'MaterialExpressionTextureSample_3',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   bUsedWithStaticLighting=True
+   bUsedWithInstancedStaticMeshes=True
+   Expressions(0)=MaterialExpressionTextureSample'MaterialExpressionTextureSample_2'
+   Expressions(1)=MaterialExpressionTextureSample'MaterialExpressionTextureSample_3'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=0F4A111B4FB8E024C8D580B1158FE07C
+   ReferencedTextureGuids(0)=197621CE49A12A9FC4689386345C035C
+   ReferencedTextureGuids(1)=4DA8076D46443D78C6FE61AAC9DC261C
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_1'
+   LightingGuid=8FA6807B49B2F4A5A310D09FBBC98A67
+End Object

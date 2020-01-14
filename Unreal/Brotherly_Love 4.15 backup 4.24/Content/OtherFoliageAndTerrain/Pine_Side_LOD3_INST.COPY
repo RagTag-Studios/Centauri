@@ -1,0 +1,32 @@
+Begin Object Class=MaterialInstanceConstant Name="Pine_Side_LOD3_INST"
+   Begin Object Class=SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_1"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_1"
+   End Object
+   Parent=Material'/Game/OtherFoliageAndTerrain/SuperFoliageSpeedWorkflow/Materials/High-Distance-LOD-Master-Mat.High-Distance-LOD-Master-Mat'
+   ScalarParameterValues(0)=(ParameterName="Far Thickness Level",ParameterValue=0.513274,ExpressionGUID=B5A790EE438C22AA67DA418E7D96EBED)
+   ScalarParameterValues(1)=(ParameterName="Base Reflection Fraction In",ParameterValue=-0.989117,ExpressionGUID=228BDA36430ADBA20DBCBDA3FA334B61)
+   ScalarParameterValues(2)=(ParameterName="Exponent In",ParameterValue=1.981496,ExpressionGUID=3216755B47A5B3AD26BC18AC31EFB85E)
+   ScalarParameterValues(3)=(ParameterName="Normal Map Blue Power",ParameterValue=-32.822201,ExpressionGUID=C53FB03F4D746E9BD9E7F3BC08F00FDE)
+   ScalarParameterValues(4)=(ParameterName="Normal Map Green Power",ParameterValue=-77.822021,ExpressionGUID=09CE8EB34449DEC22918A9AAB823F8D4)
+   ScalarParameterValues(5)=(ParameterName="Normal Map Red Power",ParameterValue=-2.305417,ExpressionGUID=B7D0B9F548BACBC4116435AC2634F1A4)
+   ScalarParameterValues(6)=(ParameterName="Noise Contrast Level",ParameterValue=0.375876,ExpressionGUID=6362761644B626C5AE181AA8BFC1868E)
+   ScalarParameterValues(7)=(ParameterName="Noise Power",ParameterValue=0.146916,ExpressionGUID=760B42D541DEF0B9302AAE8B9EF45A36)
+   ScalarParameterValues(8)=(ParameterName="Noise Scale for SS Breakup",ParameterValue=-0.053097,ExpressionGUID=873D436D4CDF55A9A40FEFAAF9C6EFBF)
+   ScalarParameterValues(9)=(ParameterName="Overall SS Multiplier",ParameterValue=0.266283,ExpressionGUID=DBA30A3F440AA76F9D5EAD8D21F63984)
+   ScalarParameterValues(10)=(ParameterName="Object Sway Amount",ParameterValue=4.634225,ExpressionGUID=636B22824CE120AB1B02AEAE98E141B3)
+   ScalarParameterValues(11)=(ParameterName="Opacity of SS Green Channel",ParameterValue=2338.465332,ExpressionGUID=FD35008F4D4CC4C703281CB6C58A7B76)
+   ScalarParameterValues(12)=(ParameterName="Overall SS Opacity",ParameterValue=-181.576767,ExpressionGUID=ECAE528B454B252068808FB840B3CD94)
+   ScalarParameterValues(13)=(ParameterName="Roughness",ParameterValue=1.000000,ExpressionGUID=70D9C9FC45E9E956DF06948356C28BCE)
+   ScalarParameterValues(14)=(ParameterName="RefractionDepthBias")
+   VectorParameterValues(0)=(ParameterName="SS Color 1",ParameterValue=(R=0.114036,G=0.135000,B=0.000853,A=1.000000),ExpressionGUID=5718512747A27C8A78C0889B3096EC1A)
+   VectorParameterValues(1)=(ParameterName="SS Color 2",ParameterValue=(R=0.227446,G=0.230000,B=0.013751,A=1.000000),ExpressionGUID=413163F94846AE5784F89B9FBAB7D9D0)
+   VectorParameterValues(2)=(ParameterName="SS Color 3",ParameterValue=(R=0.150215,G=0.165000,B=0.000000,A=1.000000),ExpressionGUID=F315643F457C058B6658CFBF59CA1ED7)
+   VectorParameterValues(3)=(ParameterName="Leaf Color 2",ParameterValue=(R=0.000000,G=0.000000,B=0.000000,A=1.000000),ExpressionGUID=8E3D4A7749ECDA538A1C98AB1C909930)
+   VectorParameterValues(4)=(ParameterName="Overall Tree Color Multiplier",ParameterValue=(R=0.904340,G=1.000000,B=0.299929,A=1.000000),ExpressionGUID=DBB9784B40563A2DA4C5C4A5B03F64B9)
+   ReferencedTextureGuids(0)=CDFF7D224BB1A1B640E88D901762F2A3
+   ReferencedTextureGuids(1)=0C068365468906DC61E61398C2297CBA
+   ReferencedTextureGuids(2)=8728467C43C2AD7133AF848D05419C9F
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_1'
+   LightingGuid=F4B6C6394ADB01381BFFD6933290F7B0
+End Object

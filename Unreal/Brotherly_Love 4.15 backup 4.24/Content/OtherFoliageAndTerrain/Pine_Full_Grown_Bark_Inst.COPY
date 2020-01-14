@@ -1,0 +1,18 @@
+Begin Object Class=MaterialInstanceConstant Name="Pine_Full_Grown_Bark_Inst"
+   Begin Object Class=SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_11"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_11"
+   End Object
+   Parent=Material'/Game/OtherFoliageAndTerrain/SuperFoliageSpeedWorkflow/Materials/PineBark_Mat.PineBark_Mat'
+   ScalarParameterValues(0)=(ParameterName="Object Sway Amount",ExpressionGUID=894FD3B14B992987FD9D35B4D8BD1445)
+   ScalarParameterValues(1)=(ParameterName="Object Sway Wind Speed Multiplier",ParameterValue=0.370000,ExpressionGUID=94EE3A3D41D33947C0789496906EA0F4)
+   ScalarParameterValues(2)=(ParameterName="Object Sway World Sine Divider",ParameterValue=23.500000,ExpressionGUID=9B26ECF3484C577C34D932969AF72720)
+   ScalarParameterValues(3)=(ParameterName="Wind Speed Multiplier",ParameterValue=0.500000,ExpressionGUID=32CDDEC14AF9DC821B7489B44A5B4169)
+   ScalarParameterValues(4)=(ParameterName="RefractionDepthBias")
+   VectorParameterValues(0)=(ParameterName="Object Sway_R_Sine1Rate_G_Sine1Amount_B_Sine2Rate_A_Sine2Amount",ParameterValue=(R=0.100000,G=0.000000,B=0.256000,A=0.100000),ExpressionGUID=CA0BF61446341B74EB71B992585FFFBC)
+   VectorParameterValues(1)=(ParameterName="Back Overall Color",ParameterValue=(R=0.460000,G=0.365669,B=0.285200,A=1.000000),ExpressionGUID=B60B85C64F9832E516BAA5AFA81C9EB0)
+   ReferencedTextureGuids(0)=2ECA659F4041F3E6EB94FCB721695703
+   ReferencedTextureGuids(1)=6C4E73F24246A754F5003BB588E23841
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_11'
+   LightingGuid=3CE2FE324A07E1F0666BE7BCB91A063C
+End Object
